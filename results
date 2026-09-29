@@ -1,1 +1,13 @@
-
+**Plastid vs Mitochondrial Genome Comparison**
+| Feature | Plastid genome | Mitochondrial genome |
+| :--- | :--- | :--- |
+| **Cellular location** | Chloroplast stroma | Mitochondrial matrix |
+| **Main biological functions** | Photosynthesis, carbon fixation, and plastid biosynthesis | Cellular respiration and oxidative phosphorylation |
+| **Typical genome organization** | Circular quadripartite structure (LSC, SSC, paired IRs); **Variation:** IR loss occurs independently in specific lineages (e.g., Fabaceae). | Dynamic multipartite structure; **Variation:** Exists as master circles, sub-genomic circles, or linear isoforms varying widely by taxon. |
+| **Relative genome size** | Highly conserved (120–170 kb; e.g., 161,303 bp in *I. batatas*) | Highly expanded and variable; **Variation:** Ranges from 200 kb to over 11 Mb due to intergenic spacer accumulation. |
+| **Gene content** | ~120–130 genes encoding photosynthetic machinery and transcriptional/translational apparatus | Conserved respiratory chain genes, ribosomal RNAs, tRNAs, and diverse lineage-specific ORFs |
+| **Copy number** | High intracellular copy number varying by tissue type and developmental stage | Variable copy number modulated by metabolic demand and tissue differentiation |
+| **Inheritance** | Uniparental (primarily maternal), with rare instances of biparental transmission | Strictly maternal inheritance across the vast majority of angiosperms |
+| **Recombination / structural change** | Structurally stable due to IR-mediated suppression; minor isomeric shifts possible | Highly dynamic via active homologous recombination across frequent repeat sequences |
+| **Mutation / substitution pattern** | Low synonymous substitution rates relative to nuclear genomes | Exceptionally low point mutation rate coupled with high structural rearrangement rates |
+| **Common research applications** | Plant phylogenomics, molecular barcoding, and genetic engineering | Evolutionary biology, structural genomics, and cytoplasmic male sterility (CMS) studies |
