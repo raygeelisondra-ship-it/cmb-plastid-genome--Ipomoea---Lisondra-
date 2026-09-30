@@ -9,4 +9,5 @@
 | **Ribosomal Protein Genes** | 21 | `rps16`, `rps2`, `rpl33`, `rps14`, `rpl20`, `rpl14` |
 | **RNA Genes (tRNA & rRNA)** | 8 (rRNA); 43 (tRNA) | `trnH-GUG`, `trnK-UUU`, `trnQ-UUG`, `VU91_r008`, `VU91_r007`, `VU91_r006` |
 | **Other Conserved Plastid Genes** | 7 | `matK`, `clpP`, `accD`, `cemA`, `ycf15`, `yc68`, `ycf2` |
+
 `Note`: Total gene count within the table doesn't account for NADH oxidoreductase and orf gene families since it's not included in the genes to focused with. Total gene entries in the table totaled 118 only.
