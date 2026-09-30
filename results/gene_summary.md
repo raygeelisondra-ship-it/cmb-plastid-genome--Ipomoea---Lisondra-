@@ -1,5 +1,5 @@
 
-| Gene Group | Target Families / Markers | Sample Genes Found in Your Galaxy Data |
+| Gene Group | Target Families / Markers | Genes Found |
 | --- | --- | --- |
 | **Photosystem I & II Genes** | `psa`, `psb` | `psbA`, `psbK`, `psbI`, `psbD`, `psbC`, `psaB`, `psaA`, `psaI` |
 | **ATP Synthase Genes** | `atp` | `atpA`, `atpF`, `atpH`, `atpI`, `atpE`, `atpB` |
