@@ -7,7 +7,7 @@
 ## Organism & Accession Details
 - **Chosen Genus & Species:** *Ipomoea batatas* (cultivar Xushu 18)
 - **NCBI Accession / Version:** NC_026703
-- **NCBI Reference Link:** (https://www.ncbi.nlm.nih.gov/nuccore/KP212149)
+- **NCBI Reference Link:** (https://www.ncbi.nlm.nih.gov/nuccore/NC_026703.1)
 - **Retrieval Date:** September 29, 2026
 
 ## Plastome Overview & Size
@@ -32,10 +32,8 @@
 - **Notable Features:** Structural regions (LSC, SSC, IR) are defined by coordinate boundaries and duplicated gene blocks rather than explicit layout rows. Introns and exons are identifiable via associated exon and Parent tags.
 
 ## References
-* National Center for Biotechnology Information (NCBI). *GenBank Accession KP212149: Ipomoea batatas cultivar Xushu 18 chloroplast, complete genome*. U.S. National Library of Medicine. https://www.ncbi.nlm.nih.gov/nuccore/KP212149
+* National Center for Biotechnology Information (NCBI). *NCBI Reference Sequence NC_026703.1: Ipomoea batatas cultivar Xushu 18 chloroplast, complete genome*. U.S. National Library of Medicine. https://www.ncbi.nlm.nih.gov/nuccore/NC_026703.1
 * Yan, L., Lai, X., Li, X., Wei, C., Tan, X., & Zhang, Y. (2015). Analyses of the complete genome and gene expression of chloroplast of sweet potato (*Ipomoea batatas*). *PLOS ONE*, *10*(4), e0124083. https://doi.org/10.1371/journal.pone.0124083
-* The Galaxy Community. (2026). *Galaxy: Open source web-based platform for data intensive biomedical research*. https://usegalaxy.org
-
 
 ## Reproducibility Guide
 To replicate this analysis in Galaxy:
